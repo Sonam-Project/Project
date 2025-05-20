@@ -1,0 +1,17 @@
+a = int(input("Enter the value of first number= "))
+b = int(input("Enter the value of second number = "))
+sum = a+b
+print("The sum of", a,"+",b ,"is", sum)
+sub = a-b
+print("The sub of", a ,"-",b,"is",sub)
+mul = a*b
+print("The mul of", a ,"*",b,"is",mul)
+div = a/b
+print("The div of", a ,"/",b,"is",div)
+flr = a//b
+print("The floor of", a ,"//",b,"is",flr)
+exp = a**b
+print("The exp of", a ,"**",b,"is",exp)
+mod = a%b
+print("The mod of", a ,"%",b,"is",mod)
+print(":-)") 
